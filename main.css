@@ -19,7 +19,7 @@ table {
 	border-collapse: collapse;
 }
 
-tr.center  td, p {
+.center {
 	text-align: center;
 	width: 80px;
 	background: #fff;
