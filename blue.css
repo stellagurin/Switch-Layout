@@ -1,0 +1,6 @@
+@import 'main.css';
+
+tr.content  td {
+	background: #00f;
+	color: #ff0;
+}
