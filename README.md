@@ -5,7 +5,7 @@ user clicks on a radio button, the layout text and background color displayed ch
 is a different layout. The default layout is a gray background with black text. The user can then choose and switch between
 a black, blue, brown, gold, navy, pink, or red background color. This is what the application looks like:
 
-![Screenshot](images/screenshot.png)
+![Screenshot](screenshot.png)
 
 *The image above is a snapshot of what the application looks like when the navy radio button is clicked on by the user.*
 
